@@ -8,7 +8,7 @@ An attempt to create a live interactive voice assistant utilizing the ChatGPT mo
 Instructions for installing this project.
 
 # Usage
-Instructions for using this project.
+While the app it running pay attention to the console indicatin when it has "started listening" and when it is "Done listening". During the 'listening' phase is when you will need to say "quit" explicitly or the program will continue to hit the openai endpoint with you prompt. This could potentially cost you more money than you were willing to spend. This will be mitigated as the project grows.
 
 # Dependencies
 The following third-party dependencies are required for this project are located in the requirements.txt
