@@ -1,6 +1,5 @@
 import os
 import openai
-
 from vera_listener.Listener import Listener
 from vera_voice.Voice import speak
 
